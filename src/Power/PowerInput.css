@@ -1,0 +1,16 @@
+.input {
+  width: 50px;
+  padding: 10px;
+  margin: 0 10px;
+}
+
+.input__wrapper {
+  display: inline-block;
+  padding: 50px 0;
+}
+
+.input--power {
+  position: relative;
+  top: -20px;
+  margin-left: -5px;
+}

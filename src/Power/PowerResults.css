@@ -1,0 +1,18 @@
+
+table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+td, th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+tr:nth-child(odd) {
+    background-color: #d3d3d3;
+}
+
+tr:last-child .important {
+    background-color: mediumseagreen;
+}
